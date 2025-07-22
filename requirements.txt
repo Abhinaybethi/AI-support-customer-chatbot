@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+pydantic
+httpx
+pyttsx3
+SpeechRecognition
+pyaudio
+transformers
+torch              # (for local model inference if needed)
+sentence-transformers
+fuzzywuzzy         # (for response deduplication)
+python-Levenshtein # (fuzzywuzzy dependency)
+openai
+google-generativeai
+requests
+python-dotenv
+pymongo
+streamlit-js-eval
